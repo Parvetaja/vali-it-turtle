@@ -1,5 +1,3 @@
-/// <reference path="./lib/Intellisense/js-turtle_hy.ts" />
-//DOCUMENTATION: https://hanumanum.github.io/js-turtle/
 /*
 setSpeed(timeMs)
 showGrid(20);      
