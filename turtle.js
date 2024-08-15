@@ -21,7 +21,7 @@ color("#ff0000")
 */
 
 
-# set drawing speed to 500 milliseconds
+// set drawing speed to 500 milliseconds
 
 
-# draw
+// draw
