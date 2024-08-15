@@ -1,6 +1,7 @@
 /// <reference path="./lib/Intellisense/js-turtle_hy.ts" />
 //DOCUMENTATION: https://hanumanum.github.io/js-turtle/
 /*
+setSpeed(timeMs)
 showGrid(20);      
 forward(distance)  
 right(angle)       
@@ -19,13 +20,8 @@ color("red")
 color("#ff0000")
 */
 
-setSpeed(500)
+
+# set drawing speed to 500 milliseconds
 
 
-forward(100)
-left(90)
-forward(100)
-left(90)
-forward(100)
-left(90)
-forward(100)
+# draw
